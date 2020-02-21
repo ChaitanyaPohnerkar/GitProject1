@@ -9,3 +9,6 @@ change : Implemented logout feature 2
 change : to fix bug1
 
 change : change made by team mate-payment change
+
+change : to fix bug2  
+
